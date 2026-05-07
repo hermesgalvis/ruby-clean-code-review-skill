@@ -2,9 +2,7 @@
 
 ## File naming
 
-Try in order:
-1. `/tmp/ruby-clean-code-review-<branch>-<YYYYMMDD>.md`
-2. If `/tmp` not writable: `./<project-root>/ruby-clean-code-review-<branch>-<YYYYMMDD>.md`
+Save to `<project-root>/tmp/ruby-clean-code-review-<branch>-<YYYYMMDD>.md`.
 
 Tell the user the exact path where the file was saved.
 
